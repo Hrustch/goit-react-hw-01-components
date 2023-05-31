@@ -1,4 +1,3 @@
-import React from "react"
 import styles from "./statistic.module.css"
 import PropTypes from "prop-types"
 import getRandomRGB from "../getRandomColor.js"
